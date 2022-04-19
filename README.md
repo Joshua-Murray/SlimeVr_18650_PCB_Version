@@ -1,6 +1,9 @@
 # SlimeVr_18650_PCB_Version
 This repository contains all the files for the PCB and the case designed with this PCB in mind. It also contains a detailed instructions on the assembly of the PCB and the case.
 
+![Images/BothCases.jpg](Images/BothCases.jpg)
+
+
 # Sections
 -   Parts and Setup
 -   PCB Related Information
